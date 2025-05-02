@@ -1,3 +1,4 @@
 English - Hello
 French - Bonjour
-Spanish - Hola
+Spanish - Hol
+Italian - Ciao
